@@ -1,0 +1,1 @@
+//http://stackoverflow.com/questions/21635397/min-average-two-slice-codility
