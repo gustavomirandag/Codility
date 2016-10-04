@@ -60,6 +60,9 @@
     <ClCompile Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PrimeAndCompositeNumbers\CountFactors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -102,6 +105,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimeAndCompositeNumbers\CountFactors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

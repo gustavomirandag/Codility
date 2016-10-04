@@ -154,6 +154,7 @@
     <ClCompile Include="Leader\Dominator.cpp" />
     <ClCompile Include="LessonsMain.cpp" />
     <ClCompile Include="PrefixSums\MinAvgTwoSlice.cpp" />
+    <ClCompile Include="PrimeAndCompositeNumbers\CountFactors.cpp" />
     <ClCompile Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.cpp" />
     <ClCompile Include="Sorting\Distinct.cpp" />
     <ClCompile Include="Sorting\MaxProductOfThree.cpp" />
@@ -170,6 +171,7 @@
     <ClInclude Include="Iterations\BinaryGapp.h" />
     <ClInclude Include="Leader\Dominator.h" />
     <ClInclude Include="PrefixSums\MinAvgTwoSlice.h" />
+    <ClInclude Include="PrimeAndCompositeNumbers\CountFactors.h" />
     <ClInclude Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.h" />
     <ClInclude Include="Sorting\Distinct.h" />
     <ClInclude Include="Sorting\MaxProductOfThree.h" />
