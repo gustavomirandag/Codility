@@ -57,6 +57,9 @@
     <ClCompile Include="LessonsMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -96,6 +99,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="StacksAndQueues\Nesting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimeAndCompositeNumbers\MinPerimeterRectangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
