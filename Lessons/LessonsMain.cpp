@@ -1,17 +1,13 @@
 #include <iostream>
 #include <vector>
-//#include "BinaryGapp.h"
-#include " "
+#include "PrimeAndCompositeNumbers\Flags.h"
 
 using namespace std;
 
 int main() {
-	//cout<<solution(1045); //BinaryGapp
-	vector<int> vecAux = { 3,8,9,7,6 };
-	vector <int> result = solution(vecAux, 3);
-	for (int i = 0; i < result.size();i++) {
-		cout << result[i]<<" ";
-	}
+	vector<int> vecAux = { 1,3,2 };
+	int result = solution(vecAux);
+	cout << result;
 	int i;
 	cin>>i;
 	return 0;
