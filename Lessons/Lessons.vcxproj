@@ -149,6 +149,7 @@
     <ClCompile Include="Arrays\CyclicRotation.cpp" />
     <ClCompile Include="Arrays\OddOccurrancesInArray.cpp" />
     <ClCompile Include="DynamicProgramming\NumberSolitaire.cpp" />
+    <ClCompile Include="Greedy\MaxNonOverlappingSegments.cpp" />
     <ClCompile Include="Greedy\TieRopes.cpp" />
     <ClCompile Include="Iterations\BinaryGap.cpp" />
     <ClCompile Include="Leader\Dominator.cpp" />
@@ -170,6 +171,7 @@
     <ClInclude Include="Arrays\CyclicRotation.h" />
     <ClInclude Include="Arrays\OddOccurrancesInArray.h" />
     <ClInclude Include="DynamicProgramming\NumberSolitaire.h" />
+    <ClInclude Include="Greedy\MaxNonOverlappingSegments.h" />
     <ClInclude Include="Greedy\TieRopes.h" />
     <ClInclude Include="Iterations\BinaryGapp.h" />
     <ClInclude Include="Leader\Dominator.h" />

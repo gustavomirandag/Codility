@@ -72,6 +72,9 @@
     <ClCompile Include="MaximumSliceProblem\MaxSliceSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Greedy\MaxNonOverlappingSegments.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -126,6 +129,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MaximumSliceProblem\MaxSliceSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Greedy\MaxNonOverlappingSegments.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

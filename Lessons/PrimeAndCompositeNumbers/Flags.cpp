@@ -17,10 +17,6 @@ int solution(vector<int> &A) {
 				flags++;
 			lastPeak = i;
 		}
-
-		if (rightPos)
-
-
 	}
 
 	return flags;
