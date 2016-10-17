@@ -149,6 +149,7 @@
     <ClCompile Include="Arrays\CyclicRotation.cpp" />
     <ClCompile Include="Arrays\OddOccurrancesInArray.cpp" />
     <ClCompile Include="CaterpillarMethod\AbsDistinct.cpp" />
+    <ClCompile Include="CaterpillarMethod\CountTriangles.cpp" />
     <ClCompile Include="DynamicProgramming\NumberSolitaire.cpp" />
     <ClCompile Include="Greedy\MaxNonOverlappingSegments.cpp" />
     <ClCompile Include="Greedy\TieRopes.cpp" />
@@ -172,6 +173,7 @@
     <ClInclude Include="Arrays\CyclicRotation.h" />
     <ClInclude Include="Arrays\OddOccurrancesInArray.h" />
     <ClInclude Include="CaterpillarMethod\AbsDistinct.h" />
+    <ClInclude Include="CaterpillarMethod\CountTriangles.h" />
     <ClInclude Include="DynamicProgramming\NumberSolitaire.h" />
     <ClInclude Include="Greedy\MaxNonOverlappingSegments.h" />
     <ClInclude Include="Greedy\TieRopes.h" />
