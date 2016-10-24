@@ -1,3 +1,3 @@
 #pragma once
 
-int solution(int N);
+int solutionCountFactors(int N);

@@ -4,4 +4,4 @@
 
 using namespace std;
 
-vector<int> solution(vector<int> &A, int K);
+vector<int> solutionCyclicRotation(vector<int> &A, int K);

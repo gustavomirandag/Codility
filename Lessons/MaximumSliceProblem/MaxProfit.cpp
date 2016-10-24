@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionMaxProfit(vector<int> &A) {
 	if (A.size() == 0)
 		return 0;
 	int maxProfit = 0;

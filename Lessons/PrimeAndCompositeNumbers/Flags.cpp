@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionFlags(vector<int> &A) {
 	int lastPeak = 0;
 	int flags = 0;
 

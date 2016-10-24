@@ -6,4 +6,4 @@
 
 using namespace std;
 
-int solution(vector<int> &A, vector<int> &B);
+int solutionMaxNonOverlappingSegments(vector<int> &A, vector<int> &B);

@@ -3,4 +3,4 @@
 
 using namespace std;
 
-int solution(vector<int> &A);
+int solutionFlags(vector<int> &A);

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionMaxProductOfThree(vector<int> &A) {
 	sort(A.begin(), A.end());
 
 	int resultWithNeg = 0;

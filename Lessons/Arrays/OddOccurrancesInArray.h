@@ -5,4 +5,4 @@
 
 using namespace std;
 
-int solution(vector<int> &A);
+int solutionOddOccurrancesInArray(vector<int> &A);

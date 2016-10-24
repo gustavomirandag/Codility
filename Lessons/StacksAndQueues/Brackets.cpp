@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(string &S) {
+int solutionBrackets(string &S) {
 	stack<char> checkStack;
 	for (int i = 0; i<(signed)S.size();i++) {
 		if (S[i] == '(' || S[i] == '{' || S[i] == '[')

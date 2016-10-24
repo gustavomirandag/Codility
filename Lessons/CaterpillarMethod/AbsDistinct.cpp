@@ -3,16 +3,16 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionAbsDistinct(vector<int> &A) {
 	int posL = 0;
 	int posR = (signed)A.size() - 1;
 	int countUniqueValues = 0;
 
-	if (A[posL] == -2147483648) {
+	/*if (A[posL] == -2147483648) {
 		countUniqueValues++;
 		while (posL<(signed)A.size() && A[posL] == -2147483648)
 			posL++;
-	}
+	}*/
 
 	while (posL <= posR) {
 		int absL = abs(A[posL]);

@@ -3,4 +3,4 @@
 
 using namespace std;
 
-int solution(string &S);
+int solutionBrackets(string &S);

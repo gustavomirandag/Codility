@@ -1,12 +1,11 @@
 #include <iostream>
 #include <vector>
-#include "PrimeAndCompositeNumbers\Flags.h"
+#include "StacksAndQueues\Fish.h"
 
 using namespace std;
 
 int main() {
-	vector<int> vecAux = { 1,3,2 };
-	int result = solution(vecAux);
+	int result = solutionFish(vector<int>{4, 3, 2, 1, 5}, vector<int>{0, 1, 0, 0, 0});
 	cout << result;
 	int i;
 	cin>>i;

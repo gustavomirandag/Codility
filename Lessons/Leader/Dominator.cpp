@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionDominator(vector<int> &A) {
 	unordered_map<int, int> occurrences;
 
 	for (int i = 0; i<(signed)A.size(); i++) {

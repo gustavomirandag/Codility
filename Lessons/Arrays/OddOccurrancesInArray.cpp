@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionOddOccurrancesInArray(vector<int> &A) {
 	unordered_map<unsigned int, unsigned int> counterMap;
 
 	for (unsigned int i = 0; i < A.size(); i++) {

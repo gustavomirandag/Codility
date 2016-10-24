@@ -26,7 +26,7 @@ std::string toBinStr(unsigned n) {
 	return res;
 }
 
-int solution(int N) {
+int solutionBinaryGap(int N) {
 	int maxGap = 0;
 	int newGap = 0;
 	bool startCounting = false;

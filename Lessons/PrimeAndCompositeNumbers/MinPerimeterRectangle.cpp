@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int solution(int N) {
+int solutionMinPerimeterRectangle(int N) {
 	int a = sqrt(N);
 	for (; a >= 1; a--) {
 		if (N % a == 0)

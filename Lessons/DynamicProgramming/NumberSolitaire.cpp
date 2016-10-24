@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionNumberSolitaire(vector<int> &A) {
 	vector<int> maxValues(A.size(), INT_MIN);
 
 	maxValues[0] = A[0];

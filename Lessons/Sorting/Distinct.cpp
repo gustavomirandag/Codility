@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionDistinct(vector<int> &A) {
 	set<int> uniqueElements(A.begin(), A.end());
 
 	return uniqueElements.size();

@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int solution(int K, vector<int> &A) {
+int solutionTieRopes(int K, vector<int> &A) {
 	int count = 0;
 	for (int i = 0; i<(signed)A.size(); i++) {
 		if (A[i] >= K)

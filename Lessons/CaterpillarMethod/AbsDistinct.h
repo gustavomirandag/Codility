@@ -5,4 +5,4 @@
 
 using namespace std;
 
-int solution(vector<int> &A);
+int solutionAbsDistinct(vector<int> &A);

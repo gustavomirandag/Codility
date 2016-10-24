@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionCountTriangles(vector<int> &A) {
 	// Sort the vector in ascending order
 	sort(A.begin(), A.end());
 	int n = (signed)A.size();

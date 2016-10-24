@@ -81,6 +81,15 @@
     <ClCompile Include="CaterpillarMethod\CountTriangles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CaterpillarMethod\CountDistinctSlices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SieveOfEratosthenes\CountSemiprimes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StacksAndQueues\Fish.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -93,9 +102,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Greedy\TieRopes.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Iterations\BinaryGapp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Leader\Dominator.h">
@@ -144,6 +150,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CaterpillarMethod\CountTriangles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaterpillarMethod\CountDistinctSlices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SieveOfEratosthenes\CountSemiprimes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StacksAndQueues\Fish.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Iterations\BinaryGap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

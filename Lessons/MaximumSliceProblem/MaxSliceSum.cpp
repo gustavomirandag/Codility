@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionMaxSliceSum(vector<int> &A) {
 	int maxSum = A[0];
 	int sum = A[0];
 

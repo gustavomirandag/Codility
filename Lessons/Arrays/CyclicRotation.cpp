@@ -1,9 +1,3 @@
-// you can use includes, for example:
-// #include <algorithm>
-
-// you can write to stdout for debugging purposes, e.g.
-// cout << "this is a debug message" << endl;
-
 #include <iostream>
 #include <vector>
 
@@ -20,7 +14,7 @@ int getNewIndex(int index, vector<int> &A, int K) {
 	}	
 }
 
-vector<int> solution(vector<int> &A, int K) {
+vector<int> solutionCyclicRotation(vector<int> &A, int K){
 	if (A.empty())
 		return A;
 

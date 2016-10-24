@@ -3,4 +3,4 @@
 
 using namespace std;
 
-int solution(int K, vector<int> &A);
+int solutionTieRopes(int K, vector<int> &A);

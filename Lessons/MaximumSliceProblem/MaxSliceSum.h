@@ -4,4 +4,4 @@
 
 using namespace std;
 
-int solution(vector<int> &A);
+int solutionMaxSliceSum(vector<int> &A);

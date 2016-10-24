@@ -2,4 +2,4 @@
 #include <vector>
 using namespace std;
 
-int solution(vector<int> &A);
+int solutionDominator(vector<int> &A);

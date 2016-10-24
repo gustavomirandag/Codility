@@ -2,4 +2,4 @@
 #include <string>
 using namespace std;
 
-int solution(string &S);
+int solutionNesting(string &S);

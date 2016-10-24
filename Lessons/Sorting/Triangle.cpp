@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int solution(vector<int> &A) {
+int solutionTriangle(vector<int> &A) {
 	sort(A.begin(), A.end());
 
 	long long int sum;

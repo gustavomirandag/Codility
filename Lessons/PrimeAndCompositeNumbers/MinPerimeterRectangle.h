@@ -1,3 +1,3 @@
 #pragma once
 
-int solution(int N);
+int solutionMinPerimeterRectangle(int N);

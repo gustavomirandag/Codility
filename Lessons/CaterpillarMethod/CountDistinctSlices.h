@@ -4,4 +4,4 @@
 
 using namespace std;
 
-int solutionMaxProfit(vector<int> &A);
+int solutionCountDistinctSlices(int M, vector<int> &A);
