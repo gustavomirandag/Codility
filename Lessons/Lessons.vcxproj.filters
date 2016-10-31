@@ -93,6 +93,9 @@
     <ClCompile Include="StacksAndQueues\StoneWall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="EuclideanAlgorithm\ChocolatesByNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -168,6 +171,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="StacksAndQueues\StoneWall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EuclideanAlgorithm\ChocolatesByNumbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

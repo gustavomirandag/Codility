@@ -153,6 +153,7 @@
     <ClCompile Include="CaterpillarMethod\CountDistinctSlices.cpp" />
     <ClCompile Include="CaterpillarMethod\CountTriangles.cpp" />
     <ClCompile Include="DynamicProgramming\NumberSolitaire.cpp" />
+    <ClCompile Include="EuclideanAlgorithm\ChocolatesByNumbers.cpp" />
     <ClCompile Include="Greedy\MaxNonOverlappingSegments.cpp" />
     <ClCompile Include="Greedy\TieRopes.cpp" />
     <ClCompile Include="Iterations\BinaryGap.cpp" />
@@ -181,6 +182,7 @@
     <ClInclude Include="CaterpillarMethod\CountDistinctSlices.h" />
     <ClInclude Include="CaterpillarMethod\CountTriangles.h" />
     <ClInclude Include="DynamicProgramming\NumberSolitaire.h" />
+    <ClInclude Include="EuclideanAlgorithm\ChocolatesByNumbers.h" />
     <ClInclude Include="Greedy\MaxNonOverlappingSegments.h" />
     <ClInclude Include="Greedy\TieRopes.h" />
     <ClInclude Include="Iterations\BinaryGap.h" />
