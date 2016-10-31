@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(vector<int> &H) {
+int solutionStoneWall(vector<int> &H) {
 	stack<int> stones;
 	int result = 0;//blocks
 
