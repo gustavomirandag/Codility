@@ -90,6 +90,9 @@
     <ClCompile Include="StacksAndQueues\Fish.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StacksAndQueues\StoneWall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h">
@@ -162,6 +165,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Iterations\BinaryGap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StacksAndQueues\StoneWall.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

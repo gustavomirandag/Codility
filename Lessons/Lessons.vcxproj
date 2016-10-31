@@ -172,6 +172,7 @@
     <ClCompile Include="StacksAndQueues\Brackets.cpp" />
     <ClCompile Include="StacksAndQueues\Fish.cpp" />
     <ClCompile Include="StacksAndQueues\Nesting.cpp" />
+    <ClCompile Include="StacksAndQueues\StoneWall.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arrays\CyclicRotation.h" />
@@ -198,6 +199,7 @@
     <ClInclude Include="StacksAndQueues\Brackets.h" />
     <ClInclude Include="StacksAndQueues\Fish.h" />
     <ClInclude Include="StacksAndQueues\Nesting.h" />
+    <ClInclude Include="StacksAndQueues\StoneWall.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
